@@ -21,7 +21,7 @@ def main_menu():
     '''
     
     print("*******************************")
-    print("   --- B A R K E E P E R ---")
+    print("      --- B O T T L ---")
     print("*******************************")
     print("1) Inventory")
     print("2) Drinks")
