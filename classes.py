@@ -42,7 +42,7 @@ class Liquor(Bottle):
     def __init__(self,name='',price=0,size=0,stock=0,abv=0,spirit=''):
         super().__init__(name='',price=0,size=0,stock=0)
         self.name = name # name of bottle
-        self.price = price #p rice of bottle
+        self.price = price #price of bottle
         self.size = size # size/volume of bottle in millileters
         self.stock = stock #current stock of item
         self.abv = abv # alcohol by volume perecntage
